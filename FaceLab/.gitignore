@@ -3,6 +3,7 @@
 __pycache__/
 .pytest_cache/
 .vscode/
+venv*
 
 # Ferramentas locais e binários
 tools/ffmpeg/

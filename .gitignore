@@ -4,6 +4,7 @@ __pycache__/
 .pytest_cache/
 .vscode/
 projeto_pytorch/
+venv*
 
 # Ferramentas locais e binários
 tools/ffmpeg/
